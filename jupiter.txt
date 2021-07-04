@@ -1,4 +1,9 @@
 
 ..... I like the red spot .....
 It apologizes for nothing! 
+The sentences above were written 
+in my pooder desktop file via Git Bash. 
+These sentences (lines 4 thru 7) were 
+written in the file in the github site. 
+
 
