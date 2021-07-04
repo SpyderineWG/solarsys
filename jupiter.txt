@@ -6,4 +6,5 @@ in my pooder desktop file via Git Bash.
 These sentences (lines 4 thru 7) were 
 written in the file in the github site. 
 
+This line is added via Git Bash. 
 
