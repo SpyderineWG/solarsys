@@ -26,6 +26,9 @@ I think mistakes and misunderstandings are how I learn most of the time.
 Good job!
 Dy
 
+Well, it took me an hour, but I'm in. 
+Is this supposed to be this hard?
+Going to commit these changes and see if I can cause some conflict.	
 Wednesday July 7 2021
 Dy. Hi! 
 I have added these lines and now going to commit
